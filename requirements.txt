@@ -1,0 +1,36 @@
+# Canadian License Plate Recognition - Requirements
+
+# Computer Vision & Deep Learning
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.207  # YOLOv8
+
+# OCR
+easyocr==1.7.0
+pytesseract==0.3.10
+
+# Image Processing
+Pillow==10.1.0
+numpy==1.24.3
+scipy==1.11.4
+
+# Web App & Dashboard
+streamlit==1.28.1
+streamlit-webrtc==0.47.0
+
+# Data Processing
+pandas==2.1.3
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities
+python-dotenv==1.0.0
+loguru==0.7.2
+tqdm==4.66.1
+
+# Development
+jupyter==1.0.0
+notebook==7.0.6
+ipython==8.18.1
